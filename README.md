@@ -14,4 +14,4 @@
 
 ## Improving Query Performance in SQL Server
 
-## [SQL Certificates](https://github.com/Promeos/SQL_Database_Exercises/tree/main/Certificates)
+## [SQL Certificates](https://github.com/Anias-clo/SQL_Database_Exercises/tree/main/Certificates)
